@@ -14,7 +14,7 @@ author: Faouzi
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  A propos: "A propos"
+  A propos: "apropos.md"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
